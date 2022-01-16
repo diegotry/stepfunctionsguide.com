@@ -6,8 +6,8 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: 'https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png',
-    logoLink: 'https://aws.amazon.com/step-functions/',
+    logo: '',
+    logoLink: '',
     title:
       "Step Functions",
     githubUrl: 'https://github.com/diegotry/stepfunctionsguide.com',
@@ -38,7 +38,7 @@ const config = {
     description: 'Documentation built with mdx. Powering hasura.io/learn ',
     ogImage: null,
     docsLocation: 'https://github.com/diegotry/stepfunctionsguide.com/tree/master/content',
-    favicon: 'https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico',
+    favicon: '',
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
