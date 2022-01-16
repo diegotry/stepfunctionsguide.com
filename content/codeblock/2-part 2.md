@@ -1,5 +1,5 @@
 ---
-title: "Syntax Highlighting"
+title: "Sub Page 2"
 metaTitle: "Syntax Highlighting is the meta title tag for this page"
 metaDescription: "This is the meta description for this page"
 ---
@@ -7,7 +7,7 @@ metaDescription: "This is the meta description for this page"
 The following is a code block with JavaScript language syntax highlighting.
 
 ```javascript
-import React from 'reacadet';
+import React from 'reacat';
 ```
 
 Supports multiple languages.

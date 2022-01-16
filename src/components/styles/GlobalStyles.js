@@ -257,7 +257,7 @@ export const baseStyles = css`
     padding: 0 !important;
   }
   .navBarDefault {
-    background-color: #001934;
+    background-color: #232f3e;
     border-radius: 0;
     border-top: 0;
     margin-bottom: 0;
@@ -272,6 +272,7 @@ export const baseStyles = css`
     padding: 15px;
     position: relative;
     height: 80px;
+    justify-content: space-between;
   }
   .navBarHeader {
     min-width: 335px;
@@ -286,7 +287,6 @@ export const baseStyles = css`
   }
 
   .navBarBrand img {
-    width: 120px;
     margin-right: 6px;
     display: inline-block;
   }
@@ -417,10 +417,6 @@ export const baseStyles = css`
     width: 40px;
   }
 
-  .sideBarUL {
-    margin-top: 32px;
-  }
-
   .sideBarUL li {
     list-style-type: none;
     width: auto;
@@ -450,7 +446,7 @@ export const baseStyles = css`
   }
 
   .hideFrontLine .active > a {
-    background-color: #1ed3c6;
+    background-color: #e47911;
     color: #fff !important;
   }
   .firstLevel ul li .collapser svg path {
@@ -470,7 +466,7 @@ export const baseStyles = css`
   }
 
   .sideBarUL .item > a {
-    color: #1ED3C6;
+    color: #e47911;
     text-decoration: none;
     display: flex;
     align-items: center;
@@ -508,7 +504,7 @@ export const baseStyles = css`
     border-color: rgb(230, 236, 241) !important;
     border-style: solid none solid solid;
     border-width: 1px 0px 1px 1px;
-    background-color: #1ed3c6 !important;
+    background-color: #e47911 !important;
     color: #fff;
   }
 
